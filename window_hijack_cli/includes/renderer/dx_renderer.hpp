@@ -6,7 +6,7 @@
 #include <dwrite_3.h>
 #include <dcomp.h>
 #include <wrl.h>
-
+#include <iterator>
 #include <interface/driver.hpp>
 #include <defs/cli.hpp>
 
